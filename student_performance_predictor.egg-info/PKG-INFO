@@ -1,12 +1,5 @@
-Metadata-Version: 2.4
-Name: student_performance_predictor
+Metadata-Version: 2.1
+Name: student-performance-predictor
 Version: 0.0.1
 Author: Akash
 Author-email: akashdhsrnm@gmail.com
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: seaborn
-Requires-Dist: matplotlib
-Dynamic: author
-Dynamic: author-email
-Dynamic: requires-dist
