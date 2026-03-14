@@ -1,4 +1,28 @@
-venv/
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
 .env
+
+
+*.log
+logs/
+
+
+# Artifacts (models, datasets generated during training)
+artifacts/
+
+
+# Model files
+*.pkl
+*.joblib
+
+# Python build files
+build/
+dist/
+*.egg-info/
